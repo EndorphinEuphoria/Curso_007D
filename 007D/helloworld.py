@@ -1,4 +1,5 @@
 # muereluka e entero gil
+
 while True:
     p = input('Desea saludar?(si/no): ')
     if p != 'no':
